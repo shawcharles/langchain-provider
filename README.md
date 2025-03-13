@@ -1,12 +1,5 @@
 # Langchain-provider
 
-## Project Info
-
-[![Project License](https://img.shields.io/github/license/griffin-ide/langchain-provider)](./LICENSE)
-[![Join the chat at https://gitter.im/griffin-ide/public](https://badges.gitter.im/griffin-ide/griffin.svg)](https://gitter.im/griffin-ide/public)
-[![OpenCollective Backers](https://opencollective.com/griffin/backers/badge.svg?color=blue)](#backers)
-[![OpenCollective Sponsors](https://opencollective.com/griffin/sponsors/badge.svg?color=blue)](#sponsors)
-
 ----
 
 # Overview
@@ -18,7 +11,7 @@ To use this completions provider you will need to install Griffin 6 (at least 6.
 
 To install the provider package from source, you can use `pip` with something like:
 
-    pip install git+https://github.com/griffin-ide/langchain-provider.git
+    pip install git+https://github.com/shawcharles/langchain-provider.git
 
 Or from PyPI something like:
 
